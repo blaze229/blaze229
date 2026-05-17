@@ -1,6 +1,6 @@
 # Brian Blackmon | blaze229
 
-I’m building THASAUCE STOW UNIVERSE™, a creative-tech ecosystem focused on AI workflows, digital ownership, lore infrastructure, and creator operating systems.
+I’m building THASAUCE STOW UNIVERSE™, a creative-tech ecosystem focused on AI workflows, creator ownership, digital lore infrastructure, and practical tools for organizing ideas into finished assets.
 
 Current build:
 - TSSU Command Center
@@ -10,17 +10,19 @@ Current build:
 - Safety Filter
 - Genesis Block infrastructure log
 
-What I’m learning:
-- GitHub workflows
-- Firebase / Firestore
-- React + TypeScript
-- AI agent-assisted development
-- repo security and validation patterns
+Current stack:
+- React
+- TypeScript
+- Tailwind
+- Firebase
+- Firestore
+- GitHub Actions
+- AI-assisted development with Jules, Gemini, and ChatGPT
 
 Recent work:
 - Hardened GitHub Actions against command injection
-- Added deepLink validation for GitHub issue and PR URLs
-- Built and deployed early TSSU Command Center infrastructure
+- Added strict GitHub deepLink validation
+- Built early Command Center infrastructure
+- Logged public proof-of-movement through GitHub PRs, commits, and achievements
 
-Main idea:
 I’m not chasing random projects. I’m building a long-term creative operating system.

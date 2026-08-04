@@ -1,34 +1,31 @@
-# Brian Blackmon | blaze229
+# THASAUCE STOW UNIVERSE™
 
-Building:
-- THASAUCE STOW UNIVERSE™
+AI + Storytelling + Systems Design
+
+## Current Build
 - TSSU Command Center
-- AI-powered creative systems
+- AI-assisted creative workflow system
+- Asset management architecture
 
-Learning:
-- AI Engineering
-- Cloud Computing
-- Cybersecurity
-- DevOps
+## Technology
+- Google Gemini
+- Firebase
+- React
+- TypeScript
+- Cloud technologies
 
+## Current Experiments
+- AI character systems
+- Prompt engineering
+- Digital worldbuilding
+- Creative automation
 
+## Philosophy
+Every tool creates a system.
+Every system creates behavior.
+Every behavior creates culture.
 
-
-
-## Current Projects
-
-- TSSU Command Center
-- TSSU Universe Bible
-- Asset Vault
-- Node Map System
-
-## Certifications
-
-- Google AI Essentials
-- Google AI Professional Certificate
-
-## Goals
-
-- Build and launch TSSU Command Center
-- Learn production AI development
-- Build a sustainable creative-tech business
+## Projects
+🚧 TSSU Command Center
+🚧 Prompt Factory
+🚧 Node Archive
